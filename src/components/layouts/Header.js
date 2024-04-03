@@ -14,7 +14,7 @@ const Header = () => {
             className="text-center"
           >
             <FaInstagram size={25} />
-            testてst
+            testてsttest
           </a>
         </li>
         <li className="">
